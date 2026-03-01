@@ -9,6 +9,7 @@
 ## Contents
 
 - [Brands & Manufacturers](#brands--manufacturers)
+- [AOV (Always On Video) Technology](#aov-always-on-video-technology)
 - [Guides & Articles](#guides--articles)
 - [Market Research](#market-research)
 - [Technical Resources](#technical-resources)
@@ -35,6 +36,36 @@
 | **Arlo** | Arlo Go 2 (4G LTE) | $200–350 |
 | **Wyze** | Wyze Cam Outdoor v2 | $30–80 |
 | **Blink (Amazon)** | Blink Outdoor Solar | $60–130 |
+
+---
+
+## AOV (Always On Video) Technology
+
+**AOV is the biggest technology shift in solar cameras since 2025.** Unlike traditional PIR (motion-triggered) cameras, AOV cameras maintain 24/7 continuous recording at ultra-low power using AI scene analysis.
+
+### AOV Resources
+- 📖 [AOV Solar Camera: Complete Buyer's Guide (2026)](https://solaguard.net/guides/aov-solar-camera-guide.html) — What AOV is, how it works, and what to look for
+- 📖 [Hikvision AOV 4G Solar Series Launch](https://www.hikvision.com/en/newsroom/latest-news/2025/hikvision-launches-its-new-aov-4g-solar-camera-series/) — Industry leader's AOV announcement (Nov 2025)
+- 📖 [AOV vs PIR Comparison](https://jer-tech.com/aov-solar-4g-camera-revolutionizing-low-power-surveillance-with-always-on-intelligence/) — Technical deep dive
+
+### AOV Brands & Products
+| Brand | AOV Product | AOV Standby Power | Key Feature |
+|-------|------------|-------------------|-------------|
+| **Hikvision** | DS-2XS6A87G1 Series | ~0.8W | AI-powered scene analysis |
+| **SolaGuard** | AOV 4G Solar Range | <1W | Ultra-low power, B2B wholesale $15-70 |
+| **LSVision** | CS100 AOV Camera | ~1W | Multi-lens + 4G |
+| **Bokysee** | Low-Power AOV Series | ~0.5W | Budget AOV option |
+| **JideTech** | AOV 4G PTZ | ~1.2W | PTZ with AOV support |
+
+### AOV vs PIR Quick Comparison
+| | AOV | PIR |
+|---|-----|-----|
+| Recording | 24/7 continuous | Motion-triggered only |
+| Detection | AI visual analysis | Infrared heat |
+| Wake-up | Instant | 1-3 sec delay |
+| False alarms | ~2-5% | ~15-30% |
+| Standby power | ~0.5-1.5W | ~0.1W |
+| Price premium | +15-25% | Baseline |
 
 ---
 
