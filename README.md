@@ -28,6 +28,9 @@
 | **Eufy (Anker)** | China (Shenzhen) | 20+ | $100–400 | US, EU B2C | [eufy.com](https://eufy.com) |
 | **Hikvision** | China (Hangzhou) | 200+ | $50–500 | Global enterprise | [hikvision.com](https://hikvision.com) |
 | **Dahua** | China (Hangzhou) | 150+ | $40–400 | Global enterprise | [dahuasecurity.com](https://dahuasecurity.com) |
+| **LSVision** | China (Shenzhen) | 80+ | $20–120 | Africa, SEA, Latin America | [lsvision.com](https://lsvision.com) |
+| **JideTech** | China (Shenzhen) | 60+ | $35–180 | Middle East, Europe B2B | [jide-tech.com](https://jide-tech.com) |
+| **Jennov** | China (Guangdong) | 40+ | $25–90 | US, EU wholesale | [jennov.com](https://jennov.com) |
 
 ### Consumer / Prosumer
 | Brand | Notable Products | Price Range |
@@ -133,6 +136,64 @@
 | TUV | Global trust | $5,000–20,000 | 8–16 weeks |
 | RoHS | EU/UK | $1,000–3,000 | 2–4 weeks |
 | NDAA | US government | Compliance audit | Varies |
+
+---
+
+## Battery Technology & Solar Panel Efficiency (2026)
+
+### Solar Panel Technology Evolution
+The solar camera industry has rapidly evolved from basic 5W monocrystalline panels to high-efficiency 20W+ panels with advanced MPPT controllers. Understanding these specifications is crucial for B2B procurement decisions.
+
+#### Panel Efficiency by Technology
+| Technology | Efficiency | Price Point | Best Use Case |
+|------------|-----------|-------------|---------------|
+| Monocrystalline | 20-22% | Premium | Low-light regions, space constraints |
+| Polycrystalline | 16-18% | Standard | Balanced cost/performance |
+| PERC (Passivated) | 21-23% | Premium+ | Maximum efficiency, commercial grade |
+| Bifacial | 18-20% (+10-15%) | Ultra-premium | Ground-mount, reflective surfaces |
+
+#### Battery Chemistry Deep Dive
+Modern solar cameras use primarily **LiFePO4 (Lithium Iron Phosphate)** batteries, replacing older Li-ion chemistry for superior safety and longevity.
+
+**LiFePO4 vs Li-ion Comparison:**
+- **Cycle Life:** LiFePO4 3,000+ cycles vs Li-ion 1,000-2,000 cycles
+- **Operating Temperature:** LiFePO4 -20°C to 60°C vs Li-ion -10°C to 45°C  
+- **Fire Risk:** LiFePO4 extremely low vs Li-ion moderate risk
+- **Capacity Retention:** LiFePO4 maintains 85% after 3 years vs Li-ion 70-75%
+- **Price Premium:** LiFePO4 +25-30% initial cost, lower TCO over 5+ years
+
+### Battery Sizing Calculator (Cloudy Day Performance)
+For B2B buyers evaluating different markets, battery autonomy during consecutive cloudy days is critical:
+
+**Vietnam Rainy Season (June-October):**
+- Average solar irradiance: 2.5 kWh/m²/day (50% reduction)
+- Required battery capacity: 3-4 days autonomy minimum
+- Recommended: 30,000+ mAh for 4MP AOV cameras
+
+**Thailand Monsoon (July-October):**
+- Average solar irradiance: 3.0 kWh/m²/day (40% reduction)  
+- Required battery capacity: 2-3 days autonomy
+- Recommended: 25,000+ mAh for 4MP AOV cameras
+
+**Africa Dry Season Performance:**
+- Peak irradiance: 6.5+ kWh/m²/day
+- Minimal battery requirements: 1-2 days autonomy sufficient
+- Cost optimization: 15,000-20,000 mAh acceptable for standard operation
+
+### MPPT Controller Efficiency Standards
+Maximum Power Point Tracking (MPPT) controllers optimize solar panel output. B2B-grade cameras should feature 95%+ MPPT efficiency:
+
+| MPPT Efficiency | Grade | Expected In |
+|-----------------|-------|-------------|
+| 90-92% | Basic/Consumer | <$30 cameras |
+| 93-95% | Commercial | $30-60 cameras |
+| 96-98% | Industrial | $60+ cameras |
+| 99%+ | Premium/Military | $100+ cameras |
+
+**Red Flags for B2B Buyers:** 
+- PWM controllers (70-80% efficiency) in 2026 = outdated technology
+- No MPPT efficiency specification = likely low-grade controller
+- Battery chemistry not specified = probably inferior Li-ion
 
 ---
 
