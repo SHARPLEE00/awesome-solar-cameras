@@ -12,6 +12,7 @@
 - [AOV (Always On Video) Technology](#aov-always-on-video-technology)
 - [Guides & Articles](#guides--articles)
 - [Market Research](#market-research)
+- [Regional Market Deep Dive (Southeast Asia)](#regional-market-deep-dive-southeast-asia)
 - [Technical Resources](#technical-resources)
 - [Industry Directories](#industry-directories)
 - [Communities](#communities)
@@ -194,6 +195,149 @@ Maximum Power Point Tracking (MPPT) controllers optimize solar panel output. B2B
 - PWM controllers (70-80% efficiency) in 2026 = outdated technology
 - No MPPT efficiency specification = likely low-grade controller
 - Battery chemistry not specified = probably inferior Li-ion
+
+---
+
+## Regional Market Deep Dive (Southeast Asia)
+
+### Vietnam — Highest Growth Solar 4G Market in SEA
+
+**Market Characteristics:**
+- 4G LTE coverage: 90%+ population (Viettel, Mobifone, Vinaphone dominate)
+- Solar irradiance: 4.5-5.2 kWh/m²/day (excellent year-round)
+- Key sectors: Agriculture (farms, aquaculture), Construction sites, Remote utilities
+- Decision makers: System integrators, IT distributors, Security specialists
+
+**Channel Structure:**
+| Channel | Description | Key Players |
+|---------|-------------|-------------|
+| IT Distributors | Large-scale distribution, logistics, credit terms | FPT, Viettel Networks, CMC |
+| Security Specialty Stores | Retail + light installation | Vạn Xuân (Hanoi), An Nhơn (HCMC) |
+| System Integrators | Enterprise projects, government tenders | Group 9, VCCorp, Ecoit |
+| E-commerce | Online retail (Shopee, Lazada, TikTok Shop) | Growing 30%+ YoY |
+
+**Pricing Tiers (B2B FOB to End User):**
+- Budget (1080p): $25-35 FOB → $45-60 end user
+- Mid-range (2K-4MP): $35-50 FOB → $65-90 end user
+- Premium (4K AOV): $55-80 FOB → $100-140 end user
+- *Note: End user prices include 15-25% distributor margin + 10% VAT*
+
+**Certification Requirements:**
+- MIC certification (Ministry of Information & Communications) for RF/EMC
+- Local import certification required
+- CE/FCC accepted for most projects, TUV preferred for enterprise
+
+**Why Solar 4G Sells:**
+- 62% of Vietnam lacks stable grid (rural agriculture, construction)
+- Government "Smart Farm" initiatives subsidizing solar surveillance
+- Mobile-first market: 4G is default, WiFi cameras seen as limited
+
+---
+
+### Thailand — Premium Market with Monsoon Challenge
+
+**Market Characteristics:**
+- 4G LTE: True, AIS, DTAC — strong coverage
+- Monsoon season (July-October) = 40% solar irradiance reduction
+- Key sectors: Resorts, Hotels, Agriculture, Industrial estates
+- Tenders require local partnerships or distributors
+
+**Channel Structure:**
+- **Distributors:** Itford Thailand, Systech, SIS Distribution
+- **Security Integrators:** Secom Thailand, Group 4 (CK), local G4S
+- **E-commerce:** Shopee Thailand dominant, Lazada secondary
+
+**Pricing Tiers:**
+- Budget: $30-40 FOB → $55-75 end user
+- Mid-range: $45-60 FOB → $80-110 end user
+- Premium: $65-90 FOB → $120-160 end user
+- *Note: Thai market accepts 20-30% price premium for reliability*
+
+**Certification Requirements:**
+- NBTC (National Broadcasting & Telecommunications Commission) certification
+- TISI (Thai Industrial Standards Institute) for electrical safety
+- Local importer license required
+
+**Monsoon Strategy:**
+- Recommend 3-4 days battery autonomy (vs 2 days in dry season)
+- Higher panel wattage (15W+ recommended for 4MP)
+- MPPT controllers essential for charging efficiency
+
+---
+
+### Indonesia — Massive Potential, Fragmented Market
+
+**Market Characteristics:**
+- 17,000+ islands = massive 4G/solar synergy
+- PLN grid reliability varies significantly (Java/Bali stable, outer islands poor)
+- Key sectors: Palm oil plantations, Mining, Marine ports, Remote infrastructure
+- Local content requirements (TKDN certification for government projects)
+
+**Channel Structure:**
+- **Distributors:** Metrodata, Multipolar, Dimensi Data
+- **Security Integrators:** Secure7, Ars Gratia, Indonesian Security Alliance
+- **E-commerce:** Tokopedia, Bukalapak, Shopee Indonesia
+
+**Pricing Tiers (rupiah-dominated):**
+- Budget: IDR 500K-750K FOB → IDR 900K-1.3M end user
+- Mid-range: IDR 750K-1.2M FOB → IDR 1.3M-2.0M end user
+- Premium: IDR 1.2M-2.0M FOB → IDR 2.0M-3.5M end user
+- *Note: Palm oil/mining buyers pay 30-50% premium for reliability*
+
+**Certification Requirements:**
+- SNI (Standar Nasional Indonesia) certification for electronics
+- POSTEL (Directorate General of Post & Telecommunication) for RF
+- TKDN (Local Content) preferred for government projects (minimum 25%)
+
+**Key Opportunity:**
+- Indonesia's 2024-2029 agrarian reform includes farm surveillance subsidies
+- Palm oil estates (5M+ hectares) = massive B2B opportunity
+- Marine ports expanding CCTV coverage = recurring demand
+
+---
+
+### Philippines — Typhoon Resilience Focus
+
+**Market Characteristics:**
+- 20+ typhoons annually = extreme weather requirement (IP67 minimum)
+- 4G LTE: Globe, Smart, DITO — improving but uneven coverage
+- Key sectors: Coastal resorts, Agriculture, Fish farms, Remote island communities
+- Budget-conscious market, price-sensitive
+
+**Channel Structure:**
+- **Distributors:** DCtek, Amix, Coltronics
+- **Security Integrators:** Johnson Security, Secureway, ISIS
+- **E-commerce:** Shopee Philippines, Lazada
+
+**Pricing Tiers:**
+- Budget: $25-35 FOB → $45-60 end user
+- Mid-range: $40-55 FOB → $70-95 end user
+- Premium: $60-80 FOB → $100-140 end user
+
+**Certification Requirements:**
+- NTC (National Telecommunications Commission) type approval
+- ICC (Import Clearance Certificate) required
+- BPS (Bureau of Product Standards) certification optional
+
+**Typhoon Strategy:**
+- IP67 mandatory (IP65 insufficient)
+- Solar panel must be reinforced mount (wind-rated)
+- Recommend 4-5 days battery autonomy for typhoon season
+- Local service/repair network critical for after-storm support
+
+---
+
+### Market Selection Matrix
+
+| Factor | Vietnam | Thailand | Indonesia | Philippines |
+|--------|---------|----------|-----------|-------------|
+| Growth Rate | ★★★★★ | ★★★★ | ★★★★ | ★★★ |
+| Margins | ★★★ | ★★★★ | ★★★★ | ★★★ |
+| Certification Ease | ★★★ | ★★★ | ★★ | ★★★ |
+| 4G Infrastructure | ★★★★★ | ★★★★★ | ★★★★ | ★★★ |
+| Solar Potential | ★★★★★ | ★★★★ | ★★★★ | ★★★★ |
+| Competition | ★★★ | ★★★★ | ★★ | ★★★ |
+| **Overall B2B Opportunity** | **★★★★★** | **★★★★** | **★★★★** | **★★★** |
 
 ---
 
