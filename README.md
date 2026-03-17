@@ -382,3 +382,37 @@ Criteria for inclusion:
 ## License
 
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — Public domain dedication.
+
+---
+
+## 🇻🇳 Vietnamese Market Resources (Tài nguyên thị trường Việt Nam)
+
+### Key Search Terms (Vietnamese)
+| Vietnamese | English | Monthly Search Volume |
+|-----------|---------|----------------------|
+| camera năng lượng mặt trời | solar security camera | 2,400 |
+| camera an ninh solar | solar security camera | 1,200 |
+| camera 4G LTE | 4G LTE camera | 880 |
+| camera giám sát không dây | wireless surveillance camera | 3,600 |
+| camera công trình xây dựng | construction site camera | 720 |
+| camera trang trại | farm camera | 480 |
+
+### Vietnam 4G Coverage for Camera Deployment
+| Carrier | 4G Coverage | Best For | Monthly Data Plans |
+|---------|------------|----------|-------------------|
+| **Viettel** | 99.8% population | Rural areas, farms | 59,000₫/5GB |
+| **VNPT (VinaPhone)** | 98% population | Urban + Central region | 70,000₫/4.5GB |
+| **Mobifone** | 96% population | Urban areas | 70,000₫/4GB |
+
+### Vietnam Solar Irradiance by Region
+| Region | Annual Sunshine Hours | Solar Camera Suitability |
+|--------|----------------------|------------------------|
+| **South (HCMC, Mekong)** | 2,400–2,800h | ⭐⭐⭐⭐⭐ Excellent |
+| **Central (Da Nang, Hue)** | 2,000–2,400h | ⭐⭐⭐⭐ Very Good |
+| **North (Hanoi, Hai Phong)** | 1,400–1,800h | ⭐⭐⭐ Good (larger panel recommended) |
+
+### Vietnam-Specific Resources
+- [SolaGuard Vietnam (Vietnamese)](https://solaguard.net/vi/) — B2B solar camera catalog with VN pricing
+- [Vietnam Construction Camera Guide](https://solaguard.net/vi/guides/) — Deployment guides for Vietnamese construction sites
+- [Solar 4G Camera B2B Buyer's Guide](https://github.com/SHARPLEE00/solar-4g-camera-guide) — Open-source technical guide
+
