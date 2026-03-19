@@ -416,3 +416,53 @@ Criteria for inclusion:
 - [Vietnam Construction Camera Guide](https://solaguard.net/vi/guides/) — Deployment guides for Vietnamese construction sites
 - [Solar 4G Camera B2B Buyer's Guide](https://github.com/SHARPLEE00/solar-4g-camera-guide) — Open-source technical guide
 
+
+## Vietnam Electronics Retail Distribution Channels (2026)
+
+### Major Electronics Retail Chains
+| Chain | Stores | Coverage | Parent | Market Share | Camera Brands Sold |
+|-------|--------|----------|--------|-------------|-------------------|
+| **Điện Máy Xanh** | ~2,025 | 63 provinces | MWG (HOSE: MWG) | 35-50% | Hikvision, Dahua, EZVIZ, IMOU, KBVision |
+| **Chợ Lớn** | 96 | South + Central | Cao Phong | ~10% | Hikvision, Dahua, miscellaneous |
+| **MediaMart** | 350+ | 32 provinces | Independent | ~5% | Hikvision, EZVIZ, miscellaneous |
+| **Nguyễn Kim** | ~20 | Mainly South | Pico Holdings (acq. Dec 2025) | ~3% | Hikvision, EZVIZ, IMOU, Dahua |
+| **HC Electronics** | 41 | North | VHC Trading | ~3% | Various |
+| **Pico** | 20 | North | Pico Holdings | ~2% | Various |
+
+### How Products Enter Vietnam Retail Chains
+```
+Manufacturer (Shenzhen/Dongguan)
+       ↓
+Vietnam Master Distributor
+(e.g., Vũ Hoàng Telecom, Nhà An Toàn, SLA Company)
+       ↓
+Regional Sub-distributors / Provincial Dealers
+(100+ companies across 63 provinces)
+       ↓
+Retail Chains / System Integrators / Online Platforms
+(Điện Máy Xanh, Shopee, Lazada, installers)
+       ↓
+End Customer
+```
+
+### Key Vietnam Security Camera Distributors
+| Distributor | HQ | Coverage | Notable Brands | Years |
+|------------|-------|---------|----------------|-------|
+| **Vũ Hoàng Telecom** | HCMC + Hanoi | National (63 provinces) | Hikvision, Dahua, EZVIZ, IMOU, ZKTeco, KBVision | 14+ |
+| **Nhà An Toàn** | Vietnam | National | Hikvision, EZVIZ, ABB | 10+ |
+| **SLA Company** | HCMC | South | IT/CCTV distribution | 10+ |
+| **DigiOne** | Vietnam | National | Multiple brands | 8+ |
+| **Thịnh Thiên Ngân** | HCMC + Canada | National + International | SEA VISION (own brand) | 10+ |
+
+### Market Dynamics (2025-2026)
+- **Central Retail sold Nguyễn Kim to Pico Holdings** (Dec 2025) for ~$36M, taking a $187M loss
+- **Điện Máy Xanh reduced from 2,300 to 2,025 stores** (2022→2025), pivoting to e-commerce
+- **E-commerce now represents 27%** of consumer electronics sales in Vietnam
+- **Solar cameras** are an emerging category not yet widely stocked in major retail chains — B2B distribution through specialized camera dealers is the primary channel
+
+### B2B Entry Strategy for Solar Camera Brands
+1. **Partner with master distributors** (Vũ Hoàng, Nhà An Toàn) who supply to all retail chains
+2. **Obtain Vietnamese certifications** (if applicable)
+3. **Provide Vietnamese-language app and documentation**
+4. **Offer pre-configured 4G SIM bundles** with Viettel/VinaPhone/Mobifone
+5. **Target provincial dealers** who serve farms, construction sites, and rural properties
