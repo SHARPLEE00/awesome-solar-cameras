@@ -466,3 +466,44 @@ End Customer
 3. **Provide Vietnamese-language app and documentation**
 4. **Offer pre-configured 4G SIM bundles** with Viettel/VinaPhone/Mobifone
 5. **Target provincial dealers** who serve farms, construction sites, and rural properties
+
+## 🇻🇳 Vietnam Market Resources
+
+### Vietnamese Camera Forums
+- [Tinhte.vn](https://tinhte.vn) — Vietnam's largest tech community
+- [Voz.vn](https://voz.vn) — Vietnamese technology forum
+
+### Vietnam Solar Camera Market (2026)
+- Market size: ~$175M (surveillance cameras, 2023)
+- Growth: 25%+ annually for solar 4G segment
+- Key players: Hikvision, Dahua, KBVISION, Vstarcam, SolaGuard
+- Top e-commerce platforms: Shopee (79% market share), Lazada (15%), TikTok (6%)
+- Popular models: Yoosee 4G solar cameras, Vstarcam BG66DR/CB75, TP-Link Tapo C410 KIT
+
+### Vietnam-Specific Considerations
+- **Climate:** Tropical monsoon — IP66 minimum, IP67 recommended
+- **4G Bands:** Viettel (Band 1/3/7), Mobifone/Vinaphone (Band 3/7)
+- **SIM data cost:** ~50,000 VND/month (~$2) for 3-5GB
+- **Key applications:** Shrimp/fish ponds, farms, construction sites, rural homes
+- **Government initiative:** Hanoi installing 40,210 surveillance cameras (2025-2026)
+
+### Vietnam Regulatory
+- **QCVN 135:2024/BTTTT** — New national standard for IP camera information security
+- Mandatory compliance from January 1, 2026
+- Requires: Unique passwords, secure firmware updates, data encryption, vulnerability management
+
+## 📊 Industry Reports
+
+| Report | Source | Key Finding |
+|--------|--------|-------------|
+| Solar Camera Market 2026 | Markets and Markets | Projected $1.52B by 2026, CAGR 18.3% |
+| Vietnam Surveillance Market | B&Company | $175M revenue (2023), 10-15M units |
+| Alibaba Solar CCTV Trends | Alibaba Seller Blog | 533% YoY trade volume increase |
+| SE Asia Smart Security | Alibaba Insights | Active buyers up 23.5% YoY |
+
+## 🤝 B2B Wholesale
+
+Looking for wholesale solar 4G cameras?
+
+- [SolaGuard](https://solaguard.net) — 150+ models, $15-70/unit FOB, TUV certified manufacturer
+- MOQ: 10 units | OEM/White-label available | Dealer margins 40-60%
