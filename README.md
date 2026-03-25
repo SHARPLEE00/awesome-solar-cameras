@@ -513,3 +513,36 @@ Looking for wholesale solar 4G cameras?
 - [Solar 4G Camera vs. Wired CCTV: B2B Buyer's Guide](https://solaguard.net/en/blog/solar-4g-camera-vs-wired-cctv-b2b-buyers-guide-2026/) — Comprehensive 12-factor comparison for distributors and integrators.
 - [2026 Southeast Asia Solar Camera Market Report](https://solaguard.net/en/blog/2026-solar-camera-market-report-southeast-asia/) — $2.24B market, 16.8% CAGR, field deployment data.
 
+
+---
+
+## 2026 Additions
+
+### New Buyer's Guides
+
+- **[Solar 4G vs Wired CCTV: Complete B2B Buyer's Guide 2026](https://github.com/SHARPLEE00/solar-4g-camera-guide/blob/master/guides/solar-4g-vs-wired-cctv-buyers-guide.md)** — 12-factor head-to-head comparison with pricing data, installation time analysis, and deployment recommendations for different scenarios (farms, construction, hospitality, warehousing).
+
+### Updated Market Data (March 2026)
+
+- Global solar security camera market: **$2.24 billion** (2025) → projected **$10.58 billion** by 2035 (CAGR 16.8%) — [Market.us](https://market.us)
+- 4G LTE covers **88% of global population** — [GSMA Mobile Economy 2024](https://www.gsma.com/mobileeconomy/)
+- Installation labor accounts for **40–60% of total wired CCTV project costs** — S&P Global (formerly IHS Markit)
+- Solar camera installation cost: **$15–$70/unit** vs wired CCTV **$1,100–$4,100/camera** (including infrastructure)
+
+### New Industry Directories
+
+- [SourceSecurity.com Thailand CCTV Distributors](https://www.sourcesecurity.com/companies/cctv-distributors-thailand/directory.html) — 140+ distributors
+- [SourceSecurity.com Philippines CCTV Distributors](https://www.sourcesecurity.com/companies/cctv-distributors-philippines/directory.html) — 142+ distributors
+- [SecurityInformed.com Thailand Distributors](https://www.securityinformed.com/companies/distributors-thailand/directory.html) — 265+ companies
+- [SecurityInformed.com Philippines Distributors](https://www.securityinformed.com/companies/distributors-philippines/directory.html) — 254+ companies
+
+### Key Southeast Asia Distributors & Integrators
+
+| Company | Country | Type | Contact |
+|---------|---------|------|---------|
+| Digital CCTV & Electronics | Philippines | Distributor | [philsecurity.com](https://philsecurity.com) |
+| 7S CCTV Security Corp | Philippines | Distributor | [7scsc.ph](https://7scsc.ph) |
+| ISA Philippines | Philippines | Integrator | [isa.com.ph](http://www.isa.com.ph) |
+| TCT Group (Hikvision Thailand) | Thailand | Distributor | National Hikvision distributor |
+| Digitalcom Thailand | Thailand | Distributor | Leading IP security distributor |
+| Smart Security Thailand | Thailand | Integrator | [smartsecurity.in.th](https://www.smartsecurity.in.th) |
