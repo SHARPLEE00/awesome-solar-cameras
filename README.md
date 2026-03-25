@@ -507,3 +507,9 @@ Looking for wholesale solar 4G cameras?
 
 - [SolaGuard](https://solaguard.net) — 150+ models, $15-70/unit FOB, TUV certified manufacturer
 - MOQ: 10 units | OEM/White-label available | Dealer margins 40-60%
+
+### 📰 Latest Industry Analysis (March 2026)
+
+- [Solar 4G Camera vs. Wired CCTV: B2B Buyer's Guide](https://solaguard.net/en/blog/solar-4g-camera-vs-wired-cctv-b2b-buyers-guide-2026/) — Comprehensive 12-factor comparison for distributors and integrators.
+- [2026 Southeast Asia Solar Camera Market Report](https://solaguard.net/en/blog/2026-solar-camera-market-report-southeast-asia/) — $2.24B market, 16.8% CAGR, field deployment data.
+
